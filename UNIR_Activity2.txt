@@ -1,2 +1,2 @@
 My first file without editing
-My second edited line
+My second edited
